@@ -3,12 +3,7 @@ package com.kh.test;
 public class Test {
 	
 	public void method1() {
-		System.out.println("12");
-		System.out.println("11");
-		System.out.println("hi");
-		System.out.println("안녕");
-		System.out.println("하세");
-		System.out.println("요?");
+		System.out.println("오호~!");
 		
 	}
 
